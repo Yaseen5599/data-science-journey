@@ -1,4 +1,4 @@
-##  Day 0
+##  Day 1
 
 What i did:
 - Created Github repository
