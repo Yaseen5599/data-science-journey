@@ -1,0 +1,3 @@
+- I have improved in writing about the works i have done in a more structured way.
+- One weakness of mine i had noticed is about explaining the insight from a data and i am coming up forward by developing my skills .I feel more confident know.
+- I will always keep my learning document and mainain a journal to keep my journey forward.
