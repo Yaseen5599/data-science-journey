@@ -1,0 +1,3 @@
+One better question I learned to ask - What is the decision to be made should me made before analysing or getting into any sort of data.
+One bad habit I noticed in myself - When i get a data i do all sort of plotting ,do find mean, median, std ,min/max without knowing the aim and then find out the attributes related .This was absolutely the wrong way to solve a problem
+One mindset shift today - First thing we need is to know what is our aim rather looking into a lot of data.Then look at how does data the given data help me then find out the necessary data needed and then get insights and bring action.
