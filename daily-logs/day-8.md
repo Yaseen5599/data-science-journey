@@ -1,0 +1,3 @@
+- I understand how to analyse a data using standard deviation and correlation cofficient.
+- Some terms i have things which have no correlation shows some correlation using corr efficient.it helped me to make better decisions from that.
+- It can be used to find out some hidden trends that exist in our data which helped me in a business style takeaway.
