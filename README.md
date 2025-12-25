@@ -1,8 +1,33 @@
-# Data Science Journey
+## Project Overview
+This project analyzes student performance data to identify
+factors affecting academic outcomes.
 
-I am a second-year Computer Science(Data Science) student learning data science from scratch.
+## Problem Statement
+The goal is to understand performance variation and recommend
+actions to improve results.
 
-This repository documents my daily learning, experiments, mistakes,
-and projects as I train to become a data professional.
+## Dataset
+- Student age
+- Attendance percentage
+- Exam marks
+- Missing and inconsistent values were present
 
-Start Date: 23-12-2025
+## Approach
+- Data cleaning with justified decisions
+- Exploratory data analysis
+- Statistical reasoning
+- Decision-focused insights
+
+## Key Findings
+- Attendance shows a positive relationship with marks
+- Performance varies significantly among students
+- Some missing data limits conclusions
+
+## Recommendation
+- Focus on attendance improvement programs
+- Provide support for low-performing students
+
+## Limitations
+- Small dataset
+- Correlation does not imply causation
+
