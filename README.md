@@ -1,33 +1,19 @@
-## Project Overview
-This project analyzes student performance data to identify
-factors affecting academic outcomes.
+# Data Science Journey
 
-## Problem Statement
-The goal is to understand performance variation and recommend
-actions to improve results.
+This repository documents my structured journey toward becoming
+a data professional.
 
-## Dataset
-- Student age
-- Attendance percentage
-- Exam marks
-- Missing and inconsistent values were present
+## What this repo contains
+- Daily learning logs
+- End-to-end mini projects
+- Data cleaning, EDA, statistics, and business reasoning
 
-## Approach
-- Data cleaning with justified decisions
-- Exploratory data analysis
+## Skills Practiced
+- Python & Pandas
+- Data Cleaning & EDA
 - Statistical reasoning
-- Decision-focused insights
+- Business-focused analysis
+- Data storytelling
 
-## Key Findings
-- Attendance shows a positive relationship with marks
-- Performance varies significantly among students
-- Some missing data limits conclusions
-
-## Recommendation
-- Focus on attendance improvement programs
-- Provide support for low-performing students
-
-## Limitations
-- Small dataset
-- Correlation does not imply causation
-
+## Philosophy
+I focus on understanding decisions, not just writing code.
