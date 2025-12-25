@@ -1,16 +1,32 @@
-# STUDENT PERFOMANCE DATA ANALYSIS
+## Project Overview
+This project analyzes student performance data to identify
+factors affecting academic outcomes.
 
-## PROBLEM STATEMENT:The project was to analyze the student perfomance data.
-### PROCESS:
-- The data given was students name, age, attendace and marks.
-- My aim is to analyse the average perfomance,is attendace related to marks also to find out the low perfomers.
-- i had used histogram,boxplot and scatter plot to analyse data using graphs and fill the unknown values by finding the average value of each attribute.
-### INSIGHTS:
-- From the given data i have analysed that attendance is related with students perfomance .
-- Also i detected the low perfomers from the list to provide more focus to them.
-- i had used histogram,boxplot and scatter plot to analyse data using graphs and fill the unknown values by finding the average value of each attribute.
-### DECISIONS:
-- minimum 80% Attendace should be made mandatory.
-- mentoring and focus should be given on low perfomers. Assumptions:
-- if attendance of a student is increased he should have performed better.
-- if we pickup and focus on low perfomers they should also performed better.
+## Problem Statement
+The goal is to understand performance variation and recommend
+actions to improve results.
+
+## Dataset
+- Student age
+- Attendance percentage
+- Exam marks
+- Missing and inconsistent values were present
+
+## Approach
+- Data cleaning with justified decisions
+- Exploratory data analysis
+- Statistical reasoning
+- Decision-focused insights
+
+## Key Findings
+- Attendance shows a positive relationship with marks
+- Performance varies significantly among students
+- Some missing data limits conclusions
+
+## Recommendation
+- Focus on attendance improvement programs
+- Provide support for low-performing students
+
+## Limitations
+- Small dataset
+- Correlation does not imply causation
