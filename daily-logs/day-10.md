@@ -1,0 +1,3 @@
+- The one thing i simplfied today is what i usually write in my insight from a data.i usually include many technical terms when i write my insight .But i know understand that we need to explain it n a simple language and that is the most powerfull way to make an impact in the peoples mind
+- The one jargon habit i noticed is that the explanation of a problem become difficult to understand by the non-technical members in our team which will make the problem solution more harder. 
+- The one communication improvemt i made i begin to talk about what the real problem is and what is the solution rather than showing some chart and ratio values.I begin to explain  rather than showing only evidences.  
