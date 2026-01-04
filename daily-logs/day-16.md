@@ -1,0 +1,3 @@
+- One bias I hadn’t considered earlier is that students with very low attendance may skip examinations, causing their poor performance to be excluded from the dataset and leading to an overly optimistic view of overall performance.
+- One assumption I now question is that low attendance always leads to poor performance, since students with strong behavioural, institutional, or psychological factors may still perform well despite lower attendance.
+- One habit I will change is focusing less on isolated variable limitations and more on how those limitations create a gap between the dataset and the real-world objective of the project.
